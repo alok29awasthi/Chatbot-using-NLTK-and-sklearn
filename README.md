@@ -3,7 +3,7 @@
 This is a chatbot that can talk to you and is very simple to learn for a beginner.
 
 ### Getting Started
-This is very easy to execute program. You just need to save both the files in a single folder. Download the required libraries and you are ready to go.
+This is a very easy to execute program. You just need to save both the files in a single folder. Download the required libraries and you are ready to go.
 
 ### Prerequisites
 1. Install nltk
