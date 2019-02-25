@@ -5,7 +5,7 @@ This is a chatbot that can talk to you and is very simple to learn for a beginne
 ### Getting Started
 This is very easy to execute program. You just need to save both the files in a single folder. Download the required libraries and you are ready to go.
 
-### rerequisites
+### Prerequisites
 1. Install nltk
 2. Download all nltk packages
 3. Install numpy library
