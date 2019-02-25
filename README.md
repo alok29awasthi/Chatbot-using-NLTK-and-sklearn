@@ -11,7 +11,7 @@ This is very easy to execute program. You just need to save both the files in a 
 3. Install numpy library
 4. Install sklearn
 
-### Rnning the tests
+### Running the tests
 I am going to brief you on how this works.
 1. There is a separate function for the greetings and bye(s).
 2. For these fuctions we first lemmatize the sentences and remove all the stopwords plus punctuations.
