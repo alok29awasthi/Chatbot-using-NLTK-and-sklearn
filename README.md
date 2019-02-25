@@ -18,4 +18,4 @@ I am going to brief you on how this works.
 3. The other responses are generated using Tf-idf vectorizer which basically gives a score to your sentences.
 4. The whole chatbot was possible with just this. But I thought to make it more informative and so included these different functions.
 
-#### opefully this will help you get started with chatbots :)
+#### Hopefully this will help you get started with chatbots :)
